@@ -3404,3 +3404,9 @@ input, select, textarea {
 			}
 
 	}
+h1 {
+  white-space: normal !important;
+}
+#header h1 br {
+  display: inline !important;
+}
